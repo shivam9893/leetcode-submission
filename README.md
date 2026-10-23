@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivam9893/leetcode-submission/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivam9893/leetcode-submission/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivam9893/leetcode-submission/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

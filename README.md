@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivam9893/leetcode-submission/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shivam9893/leetcode-submission/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivam9893/leetcode-submission/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivam9893/leetcode-submission/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivam9893/leetcode-submission/tree/master/0268-missing-number) |
 ## Hash Table
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam9893/leetcode-submission/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shivam9893/leetcode-submission/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

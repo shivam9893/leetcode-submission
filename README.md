@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivam9893/leetcode-submission/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shivam9893/leetcode-submission/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivam9893/leetcode-submission/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivam9893/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam9893/leetcode-submission/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivam9893/leetcode-submission/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivam9893/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivam9893/leetcode-submission/tree/master/0048-rotate-image) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivam9893/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
